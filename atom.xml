@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Kumpulan Buku Materi Pokok UT]]></title>
   <link href="http://utbmp.github.io/atom.xml" rel="self"/>
   <link href="http://utbmp.github.io/"/>
-  <updated>2015-03-17T09:24:56+07:00</updated>
+  <updated>2015-03-17T10:00:03+07:00</updated>
   <id>http://utbmp.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[MangEngkus]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
